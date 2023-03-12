@@ -392,7 +392,7 @@ def main():
             #If it does not accept any order base, the program is exited.
             exit()
             print("Exit..")
-#yeniiiii
+
 #The main function is executed.            
 if __name__ == "__main__":
     main()
